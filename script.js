@@ -10,7 +10,7 @@
      SETTINGS: change this to your real email address.
      It updates the email link and the contact form below.
      --------------------------------------------------------- */
-  var CONTACT_EMAIL = 'muhammadsaadmuhammadarif@example.com';
+  var CONTACT_EMAIL = 'muhammadsaadmuhammadarif@gmail.com';
 
   var reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
