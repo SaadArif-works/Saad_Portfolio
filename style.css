@@ -836,7 +836,7 @@ button, input, textarea { font: inherit; color: inherit; }
   color: #fff;
   background:
     linear-gradient(165deg, rgba(20, 33, 61, 0.95) 0%, rgba(11, 18, 32, 0.87) 60%, rgba(11, 18, 32, 0.55) 100%),
-    url("../assets/images/contact.jpg") center / cover no-repeat;
+    url("contact.jpg") center / cover no-repeat;
   background-color: #0B1220;
   overflow: hidden;
 }
